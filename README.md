@@ -41,15 +41,15 @@ $ git clone https://github.com/sergioricardoml/next-level-week-1
 # Entre no repositório
 $ cd next-level-week-1
 
-# Instale as depêndencias dentro do diretório server
+# Instale as dependências dentro do diretório server
 $ cd server
 $ npm install
 
-# Instale as depêndencias dentro do diretório web
+# Instale as dependências dentro do diretório web
 $ cd web
 $ npm install
 
-# Instale as depêndencias dentro do diretório mobile
+# Instale as dependências dentro do diretório mobile
 $ cd mobile
 $ npm install
 ```
@@ -63,7 +63,7 @@ $ npm install
   - Somente a parte **web** da aplicação funcionará.
 
 - Substituindo pelo IP de conexão com Expo (ex: `http://192.168.1.10:3333`)
-  - A aplicação **web** e **mobile** funcionarão em conjunto.
+  - As aplicações **web** e **mobile** funcionarão em conjunto.
   - Nesse caso, também é importante colocar o mesmo IP de conexão na `baseURL` dentro de `mobile/src/services/api.ts`
 
 ### Backend
