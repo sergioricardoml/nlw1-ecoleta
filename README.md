@@ -26,17 +26,17 @@
 </p>
 
 ## Recursos
-- Cadastro de ponto de coleta
-- Listar os pontos de coleta (filtros)
-- Listar um ponto de coleta específico
-- Listar os itens que são coletados
+- Cadastro de ponto de coleta;
+- Listar os pontos de coleta (filtros);
+- Listar um ponto de coleta específico;
+- Listar os itens que são coletados.
 
 ## Instalação
 Para clonar e executar a aplicação é necessário [Git](https://git-scm.com) e [Node.js](https://nodejs.org/en/download/) (que instala também o [npm](http://npmjs.com)). Em sua linha de comando:
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/sergioricardoml/next-level-week-1
+$ git clone https://github.com/sergioricardoml/next-level-week-1.git
 
 # Entre no repositório
 $ cd next-level-week-1
